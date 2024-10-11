@@ -1,31 +1,15 @@
-    <h1>📝 Note App</h1>
-    <p>Welcome to the Note App! This is a simple, user-friendly application for taking and organizing your notes.</p>
+# 📝 Note App
+Welcome to the Note App! This is a simple, user-friendly application for taking and organizing your notes.
 
-    <h2>🚀 Live Demo</h2>
-    <p>Check out the live version of the app here: <a href="https://riyad-x.github.io/Note-App/" target="_blank">Note App</a></p>
+## 🚀 Live Demo
+Check out the live version of the app here: [Note App](https://riyad-x.github.io/Note-App/)
 
-    <h2>📋 Features</h2>
-    <ul>
-        <li>Create, edit, and delete notes</li>
-        <li>Simple and intuitive interface</li>
-        <li>Responsive design for mobile and desktop use</li>
-    </ul>
+## 📋 Features
+- Create, edit, and delete notes
+- Simple and intuitive interface
+- Responsive design for mobile and desktop use
 
-    <h2>🔧 Installation</h2>
-    <ol>
-        <li>Clone the repository: <code>git clone https://github.com/riyad-x/Note-App.git</code></li>
-        <li>Open the project directory and launch <code>index.html</code> in your browser.</li>
-    </ol>
-
-    <h2>💻 Technologies Used</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
-
-    <h2>📜 License</h2>
-    <p>This project is licensed under the MIT License.</p>
-
-    <h2>👤 Author</h2>
-    <p>Created by <a href="https://github.com/riyad-x" target="_blank">Riyad</a></p>
+## 🔧 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riyad-x/Note-App.git
