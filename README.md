@@ -12,4 +12,4 @@ Check out the live version of the app here: [Note App](https://riyad899.github.i
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/riyad-x/Note-App.git
+   git clone https://github.com/riyad899/Note-App.git
